@@ -1,8 +1,9 @@
-<h3 align="center">Welcome to the official GitHub repository for Artic Maze a leading provider of innovative design, development and marketing related solutions. We design, develop, maintain website and application built on top of Shopify. You can grow your business at the same time. This repository contains our client projects, open-source projects, tools, and resources for developers, tech enthusiasts, and anyone interested in our work.</h3>
+<img src="icon.png" align="right" />
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+# Awesome README [![Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome#readme)
+> A curated list of awesome READMEs
+
+Elements in beautiful READMEs include, but are not limited to: images, screenshots, GIFs, text formatting, etc.
 
 
 <!--
