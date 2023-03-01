@@ -1,4 +1,9 @@
-### Hi there 👋
+<h1 align="center">Welcome to the official GitHub repository for Artic Maze a leading provider of innovative design, development and marketing related solutions. We design, develop, maintain website and application built on top of Shopify. You can grow your business at the same time. This repository contains our client projects, open-source projects, tools, and resources for developers, tech enthusiasts, and anyone interested in our work.</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
 <!--
 **articmaze/articmaze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
